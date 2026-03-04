@@ -141,3 +141,9 @@ i{
 .hidden{
     display: none;
 }
+.liked {
+    color: red;
+}
+.retweeted {
+  color: limegreen;
+}
